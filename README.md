@@ -25,55 +25,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Skills 🛠️</b></i></p>
 
-| 👉 Programming languages | 👉 Frontend Development | 👉 Frameworks | 👉 Operating Systems | 👉 Databases & Cloud Hosting | 👉 IDE | 👉 Software & Tools |
+| 👉 Programming languages | 👉 Frontend Development | 👉 Frameworks | 👉 Databases & Cloud Hosting | 👉 Operating Systems | 👉 IDE | 👉 Software & Tools |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | 
-
-
-
-
-##### 👉 Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-
-
-##### 👉 Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
-
-##### 👉 Databases & Cloud Hosting
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)&nbsp;
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)&nbsp;
-
-##### 👉 Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-
-
-##### IDE
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Intellij](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white)&nbsp;
-
-### 👉 Software & Tools
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)&nbsp;
-![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black)&nbsp;
-
+| ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; | ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)&nbsp;![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)&nbsp;![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white)&nbsp;![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white)&nbsp;![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)&nbsp; | ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)&nbsp;![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)&nbsp; | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;![Intellij](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white)&nbsp; | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)&nbsp;![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black)&nbsp; |
 
 
 
