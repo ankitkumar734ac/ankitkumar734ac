@@ -80,5 +80,5 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br><br>
 
-  <div align="left"><sub>Happy Coding! 10-01-2022  😊  <sub></div>
+  <div align="left"><sub>Happy Coding! 10-01-2022  😊  <sub>
   <div align="right"><p ><i><a href="https://github.com/ankitkumar734ac/"><sub>Created by @ankitkumar734ac</sub></a></i></p></div>
