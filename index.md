@@ -30,12 +30,11 @@
 -->
 
 | [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ankitkumar734) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ankitkumar734/) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ankit4935) | [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ankitkumar734ac/) | [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ankitkumar734ac)  |
-| --- | --- | --- | --- | --- |
+
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Skills 🛠️</b></i></p>
+<p align="center">  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Skills 🛠️</b></i></p>
 
 | Programming languages | Frontend Development | Frameworks | Databases & Cloud Hosting | Operating Systems | IDE | Software & Tools |
 | --- | --- | --- | --- | --- | --- | --- |
