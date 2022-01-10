@@ -66,12 +66,11 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness 🔥</b></i></p>
+<p align="center">  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness 🔥</b></i></p>
 
 | ![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar734ac&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Ankit's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar734ac&theme=radical) |
 | --- | --- |
-| <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar734ac&langs_count=9&hide=vba&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Kumar"/></p> | <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar734ac&langs_count=9&hide=vba&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Kumar"/></p> | <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> |
 
 <br>
 
@@ -81,58 +80,5 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br><br>
 
-  <div align="left"><p ><i><sub>Happy Coding! 10-01-2022 <sub></i> 😊 </p></div>
+  <div align="left"><p><i><sub>Happy Coding! 10-01-2022  😊  <sub></i></p></div>
   <div align="right"><p ><i><a href="https://github.com/ankitkumar734ac/"><sub>Created by @ankitkumar734ac</sub></a></i></p></div>
-
-<!--
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar734ac&show_icons=true&theme=gotham&count_private=true" alt="ankitkumar743ac" />
-
-&line_height=20
-
-|  |  |
-| --- | --- |
-|  |  |
-  
-![snake gif](https://github.com/ankitkumar734ac/ankitkumar734ac/blob/output/github-contribution-grid-snake.gif)
--->
-<!--
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=ankitkumar734ac&color=brightgreen" alt="watching_count" />
- </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankitkumar734ac)](https://github.com/ryo-ma/github-profile-trophy)
--->
-  <!--
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
-![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
-![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
-![Kafka](http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black)
-![Subversion](http://img.shields.io/badge/-Subversion-white?style=flat-square&logo=subversion)
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
-![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
--->
-<!--
-**ankitkumar734ac/ankitkumar734ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
