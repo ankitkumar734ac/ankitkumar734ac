@@ -70,7 +70,7 @@
 
 | ![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar734ac&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Ankit's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar734ac&theme=radical) |
 | --- | --- |
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar734ac&langs_count=9&hide=vba&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Kumar"/></p> | <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar734ac&langs_count=9&hide=vba&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Kumar"/> | <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> |
 
 <br>
 
@@ -80,5 +80,5 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br><br>
 
-  <div align="left"><p><i><sub>Happy Coding! 10-01-2022  😊  <sub></i></p></div>
+  <div align="left"><sub>Happy Coding! 10-01-2022  😊  <sub></div>
   <div align="right"><p ><i><a href="https://github.com/ankitkumar734ac/"><sub>Created by @ankitkumar734ac</sub></a></i></p></div>
