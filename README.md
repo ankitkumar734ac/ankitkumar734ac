@@ -44,6 +44,19 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Projects 🔥</b></i></p>
+
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=gotham&repo=CalculatorWithGoLang)](https://github.com/ankitkumar734ac/CalculatorWithGoLang) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Social-Media-Integration)](https://github.com/ankitkumar734ac/Social-Media-Integration) |
+| -- | -- |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Coffee-Machine)](https://github.com/ankitkumar734ac/Coffee-Machine) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=GoogleDictAPI)](https://github.com/ankitkumar734ac/GoogleDictAPI) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=gotham&repo=BLOOD_BANK_MANAGEMENT_SYSTEM)](https://github.com/ankitkumar734ac/BLOOD_BANK_MANAGEMENT_SYSTEM) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Home-Inventory-Manager-Project-)](https://github.com/ankitkumar734ac/Home-Inventory-Manager-Project-) | 
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Consumer-Loan-Assistant-Project)](https://github.com/ankitkumar734ac/Consumer-Loan-Assistant-Project) |
+
+
+
+
+
 
 
 
