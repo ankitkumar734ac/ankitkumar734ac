@@ -32,6 +32,16 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Competitive Programming  & DSA Activeness 🔥</b></i></p>
+<!-- 
+[![Badge](https://cp-logo.vercel.app/codechef/ankitkumar734?logo=true)](https://www.codechef.com/users/ankitkumar734)
+[![Leetcode](https://cp-logo.vercel.app/leetcode/ankitkumar734?logo=true)](https://leetcode.com/ankitkumar734/)
+-->
+
+| [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ankitkumar734) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ankitkumar734/) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ankit4935) | [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ankitkumar734ac/) | [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ankitkumar734ac)  |
+| --- | --- | --- | --- | --- |
+
 
 
 
@@ -59,7 +69,7 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br><br>
 
-  <div align="left"><p ><i><sub>Happy Coding! 01/10/2022<sub></i> 😊</p></div>
+  <div align="left"><p ><i><sub>Happy Coding! 10/01/2022<sub></i> 😊</p></div>
   <div align="right"><p ><i><a href="https://github.com/ankitkumar734ac/"><sub>Created by @ankitkumar734ac</sub></a></i></p></div>
 
 <!--
