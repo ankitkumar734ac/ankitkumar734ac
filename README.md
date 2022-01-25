@@ -51,7 +51,7 @@
 | -- | -- |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Coffee-Machine)](https://github.com/ankitkumar734ac/Coffee-Machine) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=GoogleDictAPI)](https://github.com/ankitkumar734ac/GoogleDictAPI) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=gotham&repo=BLOOD_BANK_MANAGEMENT_SYSTEM)](https://github.com/ankitkumar734ac/BLOOD_BANK_MANAGEMENT_SYSTEM) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Home-Inventory-Manager-Project-)](https://github.com/ankitkumar734ac/Home-Inventory-Manager-Project-) | 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Consumer-Loan-Assistant-Project)](https://github.com/ankitkumar734ac/Consumer-Loan-Assistant-Project) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=Consumer-Loan-Assistant-Project)](https://github.com/ankitkumar734ac/Consumer-Loan-Assistant-Project) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumar734ac&theme=highcontrast&repo=TowerOfHanoiVisualizer)](https://github.com/ankitkumar734ac/TowerOfHanoiVisualizer) |
 
 
 
