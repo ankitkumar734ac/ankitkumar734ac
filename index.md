@@ -1,6 +1,3 @@
-<html>
-  <body align="center">
-    
 [![Count](https://komarev.com/ghpvc/?username=ankitkumar734ac&color=brightgreen)]()
 [![Twitter: Ankit Kumar](https://img.shields.io/twitter/follow/ankitkumar734ac?style=social)](https://twitter.com/ankitkumar734ac)
 [![Linkedin: Ankit Kumar](https://img.shields.io/badge/-ankitkumar734ac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitkumar734ac/)](https://www.linkedin.com/in/ankitkumar734ac/)
@@ -86,7 +83,3 @@
   <div align="left"><sub>Happy Coding! 10-01-2022  😊  <sub>
   <div align="right"><p ><i><a href="https://github.com/ankitkumar734ac/"><sub>Created by @ankitkumar734ac</sub></a></i></p></div>
 
-    
-    
-    </body>
-    </html>
