@@ -12,20 +12,20 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### About Me
-- 🔭 I’m currently a Fresher.
+- 🔭 I’m currently a Java Developer at Cloud Analogy.
 - 🌱 I’m currently learning Spring Boot Framework and 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
-- 👯 I’m looking to collaborate on 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
-- 🤔 I’m looking for help 𝚠𝚒𝚝𝚑 𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://github.com/ankitkumar734ac/ankitkumar734ac/issues/1">here !</a> 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 📫 How to reach me: ankitkumar734ac@gmail.com
 - 📄 &nbsp;Please have a look at my [Resume]() 
 - 😄 Pronouns: 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜/We/Us
-- ⚡ Fun fact: 
+- ⚡ Fun fact: To better view of my profile plz select dark theme view of GitHub
+<!-- - 👯 I’m looking to collaborate on 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝚘𝚛 Java 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
+ - 🤔 I’m looking for help 𝚠𝚒𝚝𝚑 𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜 -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Competitive Programming  & DSA Activeness 🔥</b></i></p>
 <!-- 
-[![Badge](https://cp-logo.vercel.app/codechef/ankitkumar734?logo=true)](https://www.codechef.com/users/ankitkumar734)
+[![Badge](https://cp-logo.vercel.app/codechef/ankitkumar734?logo=true)](https://www.codechef.com/users/ankitkumar734) 
 [![Leetcode](https://cp-logo.vercel.app/leetcode/ankitkumar734?logo=true)](https://leetcode.com/ankitkumar734/)
 -->
 
