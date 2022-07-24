@@ -7,13 +7,14 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Ankit Kumar</h1>
-<h3 align="center">Student at Magadh University, BodhGaya🌟.</h3>
+<h3 align="center">Java Developer at Cloud Analogy🌟.</h3>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### About Me
 - 🔭 I’m currently a Java Developer at Cloud Analogy.
-- 🌱 I’m currently learning Spring Boot Framework and 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
+- 🌱 I’m currently learning Spring Boot Framework and 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
+- 🎓 I graduated in 2019 in BCA from Magadh University, BodhGaya 🌟.
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://github.com/ankitkumar734ac/ankitkumar734ac/issues/1">here !</a> 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 📫 How to reach me: ankitkumar734ac@gmail.com
 - 📄 &nbsp;Please have a look at my [Resume]() 
