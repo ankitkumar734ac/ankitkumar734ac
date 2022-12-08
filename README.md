@@ -77,9 +77,10 @@
 | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar734ac&langs_count=9&hide=vba&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Kumar"/></p> | <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> |
 
 <br>
+<!--
+[![Ankit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ankitkumar734ac&theme=redical)](https://git.io/praveenscience) -->
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ankitkumar734ac&theme=redical)](https://git.io/praveenscience)
-
+[![Ankit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankitkumar734ac&theme=tokyo-night)](https://github.com/ankitkumar734ac/github-readme-activity-graph)
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br><br>
