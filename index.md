@@ -7,20 +7,19 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Ankit Kumar</h1>
-<h3 align="center">Student at Magadh University, BodhGaya🌟.</h3>
+<h3 align="center">Java Developer at Cloud Analogy🌟.</h3>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### About Me
-- 🔭 I’m currently a Fresher.
-- 🌱 I’m currently learning Spring Boot Framework and 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
-- 👯 I’m looking to collaborate on 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
-- 🤔 I’m looking for help 𝚠𝚒𝚝𝚑 𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="">here !</a> 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 🔭 I’m currently a Java Developer at Cloud Analogy.
+- 🌱 I’m currently learning Spring Boot Framework and 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
+- 🎓 I graduated in 2019 in BCA from Magadh University, BodhGaya 🌟.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://github.com/ankitkumar734ac/ankitkumar734ac/issues/1">here !</a> 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 📫 How to reach me: ankitkumar734ac@gmail.com
 - 📄 &nbsp;Please have a look at my [Resume]() 
 - 😄 Pronouns: 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜/We/Us
-- ⚡ Fun fact: 
+- ⚡ Fun fact: To better view of my profile plz select dark theme view of GitHub
 
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Competitive Programming  & DSA Activeness 🔥</b></i></p>
@@ -29,7 +28,7 @@
 [![Leetcode](https://cp-logo.vercel.app/leetcode/ankitkumar734?logo=true)](https://leetcode.com/ankitkumar734/)
 -->
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ankitkumar734) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ankitkumar734/)  [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ankit4935)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ankitkumar734ac/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ankitkumar734ac)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ankitkumar734) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ankitkumar734/)  [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ankitkumar734ac)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/ankitkumar734ac/)  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ankitkumar734ac)  
 
 
 
@@ -74,7 +73,7 @@
 
 <br>
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ankitkumar734ac&theme=redical)](https://git.io/praveenscience)
+[![Ankit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankitkumar734ac&theme=tokyo-night)](https://github.com/ankitkumar734ac/github-readme-activity-graph)
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
